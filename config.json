@@ -7,16 +7,16 @@
 	},
 	{
 		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+        	"url": "stratum+tcp://eu.luckpool.net:3956",
 		"timeout": 150
 	},
 	{
 		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://na.luckpool.net:3957",
+        	"url": "stratum+tcp://eu.luckpool.net:3957",
 		"timeout": 150
 	}
 	],
-	"user": "RKbgnfWAbL43K1HrxLoWcDzRmTspYFRj6U.PHONE_FARM",
+	"user": "RJtn83U4rhBMeZi4jfi969Ads6ppvkiLAU.PHONE_FARM",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
